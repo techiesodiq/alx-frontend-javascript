@@ -1,2 +1,2 @@
 # alx-frontend-javascript
-This is A README FILE
+This is a read me file
