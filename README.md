@@ -1,2 +1,2 @@
 # alx-frontend-javascript
-This is a read me file
+This is a read me file by Sodiq Akanmu
